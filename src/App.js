@@ -1,8 +1,8 @@
 import "./App.css";
-import "./Jaad";
-import Jaad from "./Jaad";
+import "./components/Jaad";
+import Jaad from "./components/Jaad";
 import HelloWorldComponent from "./components/HelloWorld";
-import Evan from"./Evan";
+import Evan from "./components/Evan";
 
 function App() {
   return (
