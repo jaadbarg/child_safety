@@ -1,5 +1,5 @@
-const Jaad = () => {
-    return  <h1>John's Component</h1>
+const Evan = () => {
+    return  <h1>This is Evan's addition to the website</h1>
 }
 
-export default Jaad;
+export default Evan;
