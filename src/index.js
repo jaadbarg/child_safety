@@ -10,4 +10,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9e6a4b1ff4bb80f7b8007e10e2c14ef57d54ad55
