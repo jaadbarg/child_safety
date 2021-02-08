@@ -9,6 +9,7 @@ function App() {
       <h1>Child Safety!</h1>
       <Jaad></Jaad>
       <HelloWorldComponent></HelloWorldComponent>
+      <Evan></Evan>
     </div>
   );
 }
