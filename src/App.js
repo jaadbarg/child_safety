@@ -1,7 +1,7 @@
 import "./App.css";
 import "./Jaad";
 import Jaad from "./Jaad";
-import HelloWorldComponent from "./component/HelloWorld";
+import HelloWorldComponent from "./components/HelloWorld";
 
 function App() {
   return (
