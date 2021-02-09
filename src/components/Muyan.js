@@ -5,7 +5,9 @@ const HelloWorldComponent = () => {
     return (
         <div>
             <div>
-                Hello World - Muyan Pan
+                <h1>
+                    Hello World - Muyan Pan
+                </h1>
             </div>
         </div>
     )
