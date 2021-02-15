@@ -4,8 +4,8 @@ import React from "react";
 const HelloWorldComponent = () => {
     return (
         <div>
-            <div>
-                <h1>
+            <div class="button is-primary">
+                <h1 class>
                     Hello World - Muyan Pan
                 </h1>
             </div>
